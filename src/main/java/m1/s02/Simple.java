@@ -10,7 +10,7 @@ import java.lang.Math; // not required
  */
 public class Simple {
     public static void main(String[] args) {
-        // Commento
+      System.out.println("Ciao");
     	System.out.println(Math.PI);
     }
 }
